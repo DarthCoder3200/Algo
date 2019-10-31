@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-///program to find the pivot element in a sorted rotated array
+///program to find the pivot element in a sorted rotated array very efficiently using a optimised code
 ///time complexity= O(log(n))
 ///space complexity = O(1)
 ///method used = BINARY SEARCH
